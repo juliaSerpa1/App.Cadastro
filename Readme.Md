@@ -1,1 +1,1 @@
-Com esse projeto realizado para o decola tech da Avanade, sobre App de cadastro de carro para entrada em uma officina é possivel você realizar monitoria de fluxo de serviços prestados e respaldo a erros descritos nas descrições.
+Com esse projeto realizado para o decola tech da Avanade, sobre App de cadastro de carro para entrada em uma officina é possivel você realizar monitoria de fluxo de serviços prestados e respaldo a erros informados nas descrições.

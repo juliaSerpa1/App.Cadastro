@@ -1,0 +1,4 @@
+C:\Users\serpa\desktop\Cadastro.Officina\obj\Debug\netcoreapp3.1\Cadastro.Officina.csprojAssemblyReference.cache
+C:\Users\serpa\desktop\Cadastro.Officina\obj\Debug\netcoreapp3.1\Cadastro.Officina.AssemblyInfoInputs.cache
+C:\Users\serpa\desktop\Cadastro.Officina\obj\Debug\netcoreapp3.1\Cadastro.Officina.AssemblyInfo.cs
+C:\Users\serpa\desktop\Cadastro.Officina\obj\Debug\netcoreapp3.1\Cadastro.Officina.csproj.CoreCompileInputs.cache
